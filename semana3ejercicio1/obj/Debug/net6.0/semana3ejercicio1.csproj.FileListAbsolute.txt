@@ -1,0 +1,15 @@
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\bin\Debug\net6.0\semana3ejercicio1.exe
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\bin\Debug\net6.0\semana3ejercicio1.deps.json
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\bin\Debug\net6.0\semana3ejercicio1.runtimeconfig.json
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\bin\Debug\net6.0\semana3ejercicio1.dll
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\bin\Debug\net6.0\semana3ejercicio1.pdb
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\obj\Debug\net6.0\semana3ejercicio1.csproj.AssemblyReference.cache
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\obj\Debug\net6.0\semana3ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\obj\Debug\net6.0\semana3ejercicio1.AssemblyInfoInputs.cache
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\obj\Debug\net6.0\semana3ejercicio1.AssemblyInfo.cs
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\obj\Debug\net6.0\semana3ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\obj\Debug\net6.0\semana3ejercicio1.dll
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\obj\Debug\net6.0\refint\semana3ejercicio1.dll
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\obj\Debug\net6.0\semana3ejercicio1.pdb
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\obj\Debug\net6.0\semana3ejercicio1.genruntimeconfig.cache
+C:\Users\jacin\PROGRAMACION 2\semana3ejercicio1\semana3ejercicio1\obj\Debug\net6.0\ref\semana3ejercicio1.dll
